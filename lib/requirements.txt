@@ -1,0 +1,8 @@
+javafx-sdk-17.0.6/javafx.base.jar
+javafx-sdk-17.0.6/javafx.controls.jar
+javafx-sdk-17.0.6/javafx.fxml.jar
+javafx-sdk-17.0.6/javafx.graphics.jar
+javafx-sdk-17.0.6/javafx.media.jar
+javafx-sdk-17.0.6/javafx.swing.jar
+javafx-sdk-17.0.6/javafx.web.jar
+javafx-sdk-17.0.6/javafx-swt.jar
