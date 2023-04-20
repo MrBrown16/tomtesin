@@ -8,5 +8,6 @@ public class MainView {
         System.out.println(msg);
         return scanner.nextLine();
     }
+
 }
 
